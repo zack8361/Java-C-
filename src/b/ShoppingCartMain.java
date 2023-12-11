@@ -9,7 +9,7 @@ public class ShoppingCartMain {
 
         cart.addItem(item1);
         cart.addItem(item2);
+        
         cart.displayItems();
-
     }
 }
