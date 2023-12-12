@@ -11,5 +11,4 @@ public class Ex01 {
     public static int getCount() {
         return count;
     }
-
 }
