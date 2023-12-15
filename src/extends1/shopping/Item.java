@@ -8,4 +8,12 @@ public class Item {
         this.name = name;
         this.price = price;
     }
+
+    public void print(){
+        System.out.println(name + "/" +price);
+    }
+
+    public int getPrice() {
+        return price;
+    }
 }
